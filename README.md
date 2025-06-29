@@ -14,7 +14,7 @@
 | 模块章节 | 内容简介 | 状态 |
 |----------|----------|------|
 | 第2章 | 分词与嵌入：Tokenizer、Embedding 原理与复现 | ✅ 已完成 |
-| 第3章 | 注意力机制：Self-Attention 实现与动手实践 | 🔄 进行中 |
+| 第3章 | 注意力机制：Self-Attention 实现与动手实践 | ✅ 已完成 |
 | 第4章 | 编码器结构：Transformer 编码堆叠搭建 | ⏳ 待学习 |
 | 第5章 | 自监督训练流程：损失函数、训练管线构建 | ⏳ 待学习 |
 | ... | 更多章节待逐步推进 | - |
@@ -38,7 +38,7 @@
 │   ├── ch2_tokenizer_and_embedding            # 分词器模块
 │   |   ├── embedding/            # 词嵌入模块
 │   └── chh3_attention
-         |                        # 注意力机制模块（后续补充）
+         |                        
 ├── notes/                    # 每章结构化总结笔记
 │   └── chapter2_summary.md
 ├── the-verdict.txt           # 示例文本
