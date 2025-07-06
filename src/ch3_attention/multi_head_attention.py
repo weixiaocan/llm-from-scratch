@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from casual_attention import CausalAttention
+from src.ch3_attention.casual_attention import CausalAttention
 
 
 # 由多个因果注意力机制叠加的实现方式
